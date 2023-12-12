@@ -1,0 +1,49 @@
+.home{
+    text-align: center;
+    color: black;
+    min-height: 60vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    background-color: #F5F5DC;
+    }
+    .bandeiras{
+    color: black;
+    min-height: 60vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    text-align: center;
+    background-color: #F5F5DC;
+    }
+    .descricao{
+    color: black;
+    min-height: 60vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    text-align: center;
+    background-color: #F5F5DC;
+    }
+    
+    .nominhos{
+        text-align: center;
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin: 10px;
+        background-color: #F5F5DC;
+    }
+
+    .band{
+        text-align: center;
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin: 10px;
+        background-color: #F5F5DC;
+    }
+
+    .bandd{
+    background-color: #556B2F;
+    color: #fff;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }

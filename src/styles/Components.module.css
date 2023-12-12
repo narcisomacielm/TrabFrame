@@ -1,0 +1,25 @@
+.footer{
+    background-color: #556B2F;
+    color: #fff;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .navbar {
+    background-color: #D2691E;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    
+    }
+    .navbar a {
+    color: #fff;
+    margin-left: 42em;
+    text-decoration: none;
+    transition: .3s;
+    text-align: center;
+    }
+    .navbar a:hover{
+    color: #999
+    }
